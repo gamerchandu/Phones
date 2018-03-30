@@ -17,6 +17,7 @@ public class TestBrowser extends OpenBrowser {
 		System.out.println("after ngrok setup");
 		System.out.println("disabled ssl");
 		System.out.println("enabled CSRF");
+		System.out.println("sample check");
 		driver.quit();
 	}
 
