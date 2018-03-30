@@ -21,6 +21,7 @@ public class TestBrowser extends OpenBrowser {
 		System.out.println("checked with postman");
 		System.out.println("checked with postman 2");
 		System.out.println("jenkins restrted");
+		System.out.println("many attempts");
 		driver.quit();
 	}
 
