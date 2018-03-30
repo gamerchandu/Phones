@@ -12,7 +12,7 @@ public class TestBrowser extends OpenBrowser {
 		System.out.println("first ");
 		System.out.println(driver.getTitle());
 		
-		System.out.println("fourth");
+		System.out.println("fourths");
 		driver.quit();
 	}
 
