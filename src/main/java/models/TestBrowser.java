@@ -14,6 +14,7 @@ public class TestBrowser extends OpenBrowser {
 		
 		System.out.println("fourths");
 		System.out.println("ne wlin es");
+		System.out.println("after ngrok setup");
 		driver.quit();
 	}
 
