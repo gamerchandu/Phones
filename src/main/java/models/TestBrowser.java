@@ -13,7 +13,7 @@ public class TestBrowser extends OpenBrowser {
 		System.out.println(driver.getTitle());
 		
 		System.out.println("fourth");
-		driver.close();
+		driver.quit();
 	}
 
 }
