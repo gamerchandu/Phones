@@ -13,6 +13,7 @@ public class TestBrowser extends OpenBrowser {
 		System.out.println(driver.getTitle());
 		
 		System.out.println("fourths");
+		System.out.println("ne wlin e");
 		driver.quit();
 	}
 
