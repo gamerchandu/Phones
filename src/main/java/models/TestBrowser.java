@@ -19,6 +19,7 @@ public class TestBrowser extends OpenBrowser {
 		System.out.println("enabled CSRF");
 		System.out.println("sample check");
 		System.out.println("checked with postman");
+		System.out.println("checked with postman 2");
 		driver.quit();
 	}
 
