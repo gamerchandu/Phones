@@ -4,5 +4,6 @@ public class Test2 {
 
 void m()
 {
-  Sysem
+  System.out.println("line in the Test2 Class");
+}
 }
