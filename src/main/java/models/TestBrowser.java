@@ -9,6 +9,7 @@ public class TestBrowser extends OpenBrowser {
 		
 		driver.get("http://www.google.com");
 		
+		System.out.println("first ");
 		System.out.println(driver.getTitle());
 		
 		driver.close();
